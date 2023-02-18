@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdb4d84d4e3f2db469616157f1856c84, type: 3}
+  m_Name: Commodus
+  m_EditorClassIdentifier: 
+  name: Commodus
+  health: 15
+  speed: 10
+  attackPoints: 5
+  image: {fileID: 21300000, guid: 61411aa049e3caf4aa987703794c5345, type: 3}
+  player: {fileID: 1026460099929951392, guid: c0aca5f378d35c645a693ced8a1ba6f3, type: 3}
